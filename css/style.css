@@ -1,0 +1,38 @@
+body {
+	background: #000 url("../images/fon1.jpg") fixed;
+	background-size: 100% auto;
+}
+header {
+	position: fixed;
+}
+.main {
+	padding: 5px;
+	background-color: black;
+	border-radius: 2em;
+	color: white;
+	margin: 15px
+}
+#link-head {
+	position: sticky;
+	top: 10px;
+	left: : 15px;
+}
+h1 {
+	color: #008000;
+	text-align: center;
+	position: relative;
+	top: 30px;
+}
+img {
+	border: 1px solid black;
+}
+.img-foto {
+	padding: 30px;
+	text-align: center;
+}
+h2 {
+	color: navy;
+	text-align: center;
+	position: relative;
+	top: 5px;
+}
